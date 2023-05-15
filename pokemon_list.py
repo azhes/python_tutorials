@@ -15,8 +15,3 @@ for :
         print()
     else:
         print()
-
-
-
-
-
