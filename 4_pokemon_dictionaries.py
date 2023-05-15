@@ -10,13 +10,7 @@
 # 4. Calls the 'find_highest_level' function with the user's input and prints the name of hte highest level pokemon of that type.
 
 # Step 1: Define a list of Pokemon dictionaries
-pokemon_list = [
-    {'name': 'Eevee', 'type': 'Normal', 'level': 20},
-    {},
-    {},
-    {},
-    {}
-]
+pokemon_list = []
 
 # Step 2: Define the function find_highest_level
 def find_highest_level(type):
